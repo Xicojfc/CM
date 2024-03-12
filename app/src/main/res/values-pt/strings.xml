@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="btn1">Seguinte</string>
+        <string name="tv1">Ecra 1</string>
+        <string name="btn2">Anterior</string>
+        <string name="tv2">Ecra 2</string>
+
+</resources>

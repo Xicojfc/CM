@@ -1,0 +1,8 @@
+<resources>
+        <string name="app_name" translatable="false">My Application</string>
+        <string name="btn1">Next</string>
+        <string name="tv1">Screen 1</string>
+        <string name="btn2">Back</string>
+        <string name="tv2">Screen 2</string>
+        <string name="tv3" translatable="false">Francisco Correia 24451</string>
+</resources>
